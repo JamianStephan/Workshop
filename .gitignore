@@ -7,7 +7,7 @@
 
 # Output files
 *.png
-
+*.ipynb
 # Python runtime
 *.pyc
 *.egg-info
